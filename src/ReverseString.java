@@ -5,19 +5,23 @@ public class ReverseString {
 	
 	public static void main(String[] args) {
 		
+		name.reverseString(); 
 		
+		// backwards = new ReverseString(); 
 		
-		ReverseString backwards = new ReverseString(); 
-		
-		backwards.name = "Syntax Technologies"; 
+	//	backwards.name = "Syntax Technologies"; 
 		
 	}
 
 	
 	
-	void name() { 
+	void reverseString() { 
+		String str  = " seigoloncheT xatnyS"; 
+		String reverse =""; 
+		for()
 		
-		//for(int i = name.length()-1; i>=0; i--)
+		
+		for(int i = name.length()-1; i>=0; i--)
 			
 			System.out.print("Can print");
 	}
